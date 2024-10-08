@@ -3,10 +3,10 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Frank Shinost"
   navbar:
     left:
-      - href: index.qmd
+      - href: https://github.com/FShinost/Shi_websitefun.git
         text: Home
       - projects.qmd
     tools:
@@ -16,7 +16,7 @@ website:
         href: https://github.com/YOURUSERNAME/YOURREPO
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2023, Frank Shinost"
 
 format:
   html:
