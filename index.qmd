@@ -6,14 +6,24 @@ about:
   image: img/Picture1.png
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+Be a good husband and father
+
+Continue to learn
+
+Apply what I learn
+
+Teach others
 
 ## Education
 
-## Experience
+BS Wildlife and Conservation Biology '24 UNH
 
+School of Hard Knocks (aka. USMC 1998-2020)
+
+## Experience
 :::
 
 Thanks for checking out my web site!
